@@ -1,0 +1,228 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #ffffff;
+}
+
+nav {
+    height: 70px;
+    background-color: #121212;;
+}
+/* Home */
+.jumbotron {
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bannerHome {
+    height: 270px;
+
+}
+.bannerDetail{
+    height: 700px;
+}
+.card-content {
+    margin-top: -70px;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.konten h5 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.table thead th {
+    border-bottom: none;
+}
+
+.borderless tbody tr {
+    font-weight: bold;
+    border: 1px solid rgba(215, 215, 215, 0.6);
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 85px;
+}
+
+.top .table thead th {
+    font-weight: bold;
+    vertical-align: bottom;
+    border-bottom: 1px solid #00A3FF;
+}
+
+.top tbody tr {
+    font-weight: bold;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 8em;
+}
+hr {
+    margin-top: 15px;
+    border: 1px solid #00A3FF;
+}
+
+.category {
+    font-size: 14px;
+}
+.titleManga {
+    font-size: 16px; font-weight: 600;
+}
+
+.lastChapter {
+    font-weight: 600;font-size: 16px;line-height: 20px; color: #00A3FF;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+
+.rating {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #4F4F4F;
+}
+
+.lastUpdate {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 23px;
+}
+
+.latestDiscussions h6{
+    font-weight: 500;
+    font-size: 14px;
+    color: #00A3FF;
+}
+.latestDiscussions p {
+    font-weight: 500;
+    font-size: 12px;
+    color: #828282;
+}
+
+.activity{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.activity p{
+    color: #00A3FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.activity h6{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+footer {
+    height: 150px;
+    background-color: #121212;
+}
+
+.titleSearch {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    color: #4F4F4F;
+}
+
+.sipnosis{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.titleDetail {
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+
+.card-content-detail{
+    margin-top: -400px;
+}
+
+.btnLastChapter {
+    padding: 10px;
+    border: 1px solid #00A3FF;
+}
+
+.list-group-item {
+    border: 0px;
+}
+
+.list-group-item-detail {
+    border: 1px solid rgba(215, 215, 215, 0.6);
+    border-radius: 10px;
+}
+
+.grey {
+    border: 1px solid rgba(215, 215, 215, 0.6);
+}
+
+
+.latest {
+    font-weight: bold;
+font-size: 20px;
+line-height: 32px;
+margin-left: 15px;
+margin-top: -20px;
+margin-bottom: 30px;
+}
+
+.elips {
+    border-radius: 2rem;
+}
+ul#genres li {
+    margin-right: 10px;
+    display:inline;
+}
+
+ul#genres .active{
+    color: #ffffff;
+    background-color: #00A3FF;
+    border-radius: 2rem;
+    padding: 5px 15px 5px 15px;
+}
+
+.listGenres li {
+    padding: 0px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+#listScrollHorizontal {
+    overflow-x: scroll;
+    overflow-y: hidden;
+ }
+ 
+#listScrollHorizontal ul {
+    width: 2300px;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+}
+#listScrollHorizontal li {
+    float: left;
+    list-style: none;
+}
