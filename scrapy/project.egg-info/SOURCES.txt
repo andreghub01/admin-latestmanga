@@ -1,0 +1,13 @@
+setup.py
+getLastChapter/__init__.py
+getLastChapter/items.py
+getLastChapter/middlewares.py
+getLastChapter/pipelines.py
+getLastChapter/settings.py
+getLastChapter/spiders/__init__.py
+getLastChapter/spiders/manyWebsite.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
